@@ -1,3 +1,4 @@
+#!/bin/bash
 echo Hello 
 name="Jaya"
 salary= 9000
